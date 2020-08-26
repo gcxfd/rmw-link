@@ -1,0 +1,21 @@
+[submodule "srv"]
+path = srv
+url = git@e.coding.net:rmw/rmw-link/srv.git
+[submodule "taro"]
+path = taro
+url = git@e.coding.net:rmw/rmw-link/taro.git
+[submodule "file"]
+path = file
+url = git@e.coding.net:rmw/rmw-link/file.git
+[submodule "docker"]
+path = docker
+url = git@e.coding.net:rmw/rmw-link/docker.git
+[submodule "proto"]
+path = proto
+url = git@e.coding.net:rmw/rmw-link/proto.git
+[submodule "blog"]
+	path = blog
+	url = git@e.coding.net:rmw/rmw-link/blog.git
+[submodule "desktop"]
+	path = desktop
+	url = git@e.coding.net:rmw/rmw-link/desktop.git
